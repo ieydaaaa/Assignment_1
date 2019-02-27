@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text> Name : Nurul Khalida binti Isa</Text>
-        <Text> Matric No : 1612390 </Text>
+        <Text> Matric No : 1612390 01 </Text>
       </View>
     );
   }
